@@ -22,7 +22,7 @@ A simple Java-based Student Management System that allows users to manage studen
 - Search & Report Generation
 
 ## 📌 Status:
-This project was completed as part of an academic course. Code is currently unavailable but will be uploaded soon.
+This project was completed as part of an academic course. Full working code is available in this repository.
 
 ## 👩‍💻 Developed By:
 Rakshitha GL
